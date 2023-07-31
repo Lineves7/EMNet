@@ -1,0 +1,22 @@
+C:/Anaconda3/envs/pytorch181/python  train_enhancer.py \
+--env emnet_enhancer_lolv1 \
+--arch emnet_enhancer \
+--embed_dim 32 \
+--nepoch 800 \
+--lr_initial 2e-4 \
+--batch_size 4 \
+--train_ps 128 \
+--train_dir C:\\dataset\\data\\LOL\\LOLdataset\\our485 \
+--val_dir C:\\dataset\\data\\LOL\\LOLdataset\\eval15 \
+--train_workers 1 \
+--warmup \
+--l2_lambda 0 \
+--l1_lambda 0 \
+--ssim_lambda 1 \
+--lpips_lambda 1 \
+--val_time 2 \
+--datarange 01 \
+--weight_decay 0 \
+--img_vision \
+--torch_vision
+
