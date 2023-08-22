@@ -8,8 +8,9 @@ Dongjie Ye, [Zhangkai Ni](https://eezkni.github.io/),[Wenhan Yang](https://flyyw
 ## Requirements and Installation
 pytorch=1.8.1
 
-(Please refer EMNet_env.yaml for our operational environment. 
-Be aware that EMNet_env.yaml includes redundant libraries, please install the necessary libraries based on your requirements.)
+(Please refer EMNet_env.yaml for our operational environment.  
+
+**Be aware that EMNet_env.yaml includes redundant libraries, please install the necessary libraries based on your requirements.**)
 
 ## Testing (Running pretrained models)
 - Checkpoint
