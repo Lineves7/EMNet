@@ -5,6 +5,9 @@ Official Pytorch implementation of "**Glow in the Dark: Low-Light Image Enhancem
 #### [[Paper-official](https://ieeexplore.ieee.org/document/10177254)] 
 Dongjie Ye, [Zhangkai Ni](https://eezkni.github.io/),[Wenhan Yang](https://flyywh.github.io/), [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm), [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/), [Sam Kwong](http://www6.cityu.edu.hk/stfprofile/cssamk.htm)
 
+## Requirements and Installation
+pytorch=1.8.1
+(Please refer EMNet_env.yaml for our operational environment. Be aware that EMNet_env.yaml includes redundant libraries. Pleas install the necessary libraries based on your requirements.)
 
 ## Testing (Running pretrained models)
 - Checkpoint
