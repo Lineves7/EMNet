@@ -42,6 +42,7 @@ def main():
     model_restoration_mem.key = model_restoration_mem.key.cuda()
     model_restoration_mem.value = model_restoration_mem.value.cuda()
     model_restoration_mem.age = model_restoration_mem.age.cuda()
+    model_restoration_mem.top_index = model_restoration_mem.top_index.cuda()
     model_restoration_mem.cuda()
     model_restoration_mem.eval()
     avg_pooling = nn.AdaptiveAvgPool2d((args.pooling_size,args.pooling_size))
