@@ -10,7 +10,7 @@ pytorch=1.8.1
 
 (Please refer EMNet_env.yml for our operational environment.  
 
-**Be aware that EMNet_env.yml includes redundant libraries, please install the necessary libraries based on your requirements.**)
+**Be aware that EMNet_env.yml includes redundant libraries. Kindly install the relevant libraries according to your needs.**)
 
 ## Testing (Running pretrained models)
 - Checkpoint
