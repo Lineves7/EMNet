@@ -57,6 +57,15 @@ Training the external memory requires a pre-trained image enhancer.
     ```
     sh test_script.sh
     ```
+3. The [input_dir] directory structure will be arranged as:
+```
+[your input dir]
+    |- high
+        |- 695.png (or alternative img formats)
+        |- ...
+    |- low
+        |- 695.png (or alternative img files)
+        |- ...
 
 ## Citation
 If this code is useful for your research, please cite our paper:
