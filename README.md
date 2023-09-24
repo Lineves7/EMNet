@@ -5,6 +5,12 @@ Official Pytorch implementation of "**Glow in the Dark: Low-Light Image Enhancem
 #### [[Paper-official](https://ieeexplore.ieee.org/document/10177254)] 
 Dongjie Ye, [Zhangkai Ni](https://eezkni.github.io/),[Wenhan Yang](https://flyywh.github.io/), [Hanli Wang](https://mic.tongji.edu.cn/51/91/c9778a86417/page.htm), [Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/), [Sam Kwong](http://www6.cityu.edu.hk/stfprofile/cssamk.htm)
 
+ 	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/glow-in-the-dark-low-light-image-enhancement/low-light-image-enhancement-on-lol-v2)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lol-v2?p=glow-in-the-dark-low-light-image-enhancement)
+
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/glow-in-the-dark-low-light-image-enhancement/low-light-image-enhancement-on-lol)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lol?p=glow-in-the-dark-low-light-image-enhancement)
+
 ## Requirements and Installation
 pytorch=1.8.1
 
